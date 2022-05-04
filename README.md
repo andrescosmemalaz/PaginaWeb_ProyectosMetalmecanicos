@@ -6,8 +6,7 @@ El fin de la página fue la atracción de más clientes.
 Ha sido desarrollada con las herramientas básicas HTML, CSS y JavaScript.
 
 
-
-![2022-05-02 (1)](https://user-images.githubusercontent.com/57787417/166801620-21d65892-d8b0-4d5c-8449-63c0653f0b9e.png)
-![2022-05-02 (2)](https://user-images.githubusercontent.com/57787417/166801630-85eb293e-3925-43ef-bc3d-265a459c21a5.png)
-![2022-05-02](https://user-images.githubusercontent.com/57787417/166801635-388eb06d-d182-47fa-aba9-55cbee720921.png)
-![Empresa](https://user-images.githubusercontent.com/57787417/166801640-18d3a61a-9a87-4727-ac45-e58dbbf45562.JPG)
+![portada](https://user-images.githubusercontent.com/57787417/166802168-85ace047-a2bb-4c0e-be13-3e2e04fe8301.png)
+![servicios](https://user-images.githubusercontent.com/57787417/166802173-01af1345-772f-481a-9766-038bcc6cf8d7.png)
+![Empresa](https://user-images.githubusercontent.com/57787417/166802186-edf1e3d8-5368-4152-af11-f1aaa65701ff.JPG)
+![valores](https://user-images.githubusercontent.com/57787417/166802190-7a1ca510-df08-48f9-a9bb-a6fca6cbfd56.png)
